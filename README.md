@@ -42,6 +42,9 @@ Hier kun je je modellen definiëren die staan voor verschillende tabellen in de 
 
 #### views.py
 Hier kun je zogenaamde `views` definiëren die logica van verschillende pagina's bepalen en (meestal) een template renderen
+Ik heb twee voorbeelden toegevoegd:
+1. http://localhost:18000/myapp/function-based-view
+2. http://localhost:18000/myapp/class-based-view
 
 ## Django commando
 Je kunt inloggen op de container `docker exec -it django-tutorial-container bash` en een van de volgende commando's uitvoeren
